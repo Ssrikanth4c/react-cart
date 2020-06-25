@@ -1,0 +1,26 @@
+[
+    {   "id": 1,
+        "itemName": "shirts",
+        "price": 200,
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "itemName": "pants",
+        "price": 400,
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "itemName": "shorts",
+        "price": 150,
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 4,
+        "itemName": "T-shirts",
+        "price": 250,
+        "img": "https://via.placeholder.com/150"
+    }
+
+]
